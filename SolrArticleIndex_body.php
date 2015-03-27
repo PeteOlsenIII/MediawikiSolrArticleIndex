@@ -1,13 +1,11 @@
 <?php
 /**
- * SolrArticleIndex extension - lets users select custom javascript gadgets
- *
- * For more info see http://mediawiki.org/wiki/Extension:SolrArticleIndex
+ * SolrArticleIndex extension - Inputs page contents into a local solr instance
  *
  * @file
  * @ingroup Extensions
- * @author Daniel Kinzler, brightbyte.de
- * @copyright © 2007 Daniel Kinzler
+ * @author Pete Olsen 
+ * @copyright © 2012 Pete Olsen
  * @license GNU General Public Licence 2.0 or later
  */
 
