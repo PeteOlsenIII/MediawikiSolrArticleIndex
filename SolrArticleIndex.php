@@ -22,7 +22,7 @@ $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'Solr Index Article',
 	'author' => array( 'Pete Olsen' ),
-	'url' => 'https://mediawiki.org/wiki/Extension:SolrArticleIndex',
+	'url' => 'https://github.com/PeteOlsenIII/MediawikiSolrArticleIndex',
 	'descriptionmsg' => 'solrindexarticle-desc',
 );
 

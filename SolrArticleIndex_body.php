@@ -4,7 +4,7 @@
  *
  * @file
  * @ingroup Extensions
- * @author Pete Olsen 
+ * @author Pete Olsen : https://github.com/PeteOlsenIII/MediawikiSolrArticleIndex
  * @copyright © 2014 Pete Olsen
  * @license GNU General Public Licence 2.0 or later
  */
