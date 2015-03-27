@@ -5,7 +5,7 @@
  * @file
  * @ingroup Extensions
  * @author Pete Olsen 
- * @copyright © 2012 Pete Olsen
+ * @copyright © 2014 Pete Olsen
  * @license GNU General Public Licence 2.0 or later
  */
 

@@ -2,8 +2,6 @@
 /**
  * SolrArticleIndex extension - lets users select custom javascript gadgets
  *
- * For more info see http://mediawiki.org/wiki/Extension:SolrArticleIndex
- *
  * @file
  * @ingroup Extensions
  * @author Pete Olsen
